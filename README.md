@@ -1,6 +1,6 @@
 # DemoGit (memo Git commandes)
 
-![Logo GitHub](https://tctechcrunch2011.files.wordpress.com/2010/07/github-logo.png?w=400) 
+![Logo GitHub](http://www.freepngimg.com/download/github/1-2-github-free-png-image.png) 
 
 ## Commande config de git :ok_hand:
 1. git config --global user.email -> permet de configurer son email
@@ -8,39 +8,39 @@
 
 ## Quelque commande de git :+1:
 **git.init**
->Commande qui va créer un depot vide
+>Commande qui va créer un dépôt vide
 
 **git.add**
->Commande qui va ajouter un fichier modifier dans le commit
+>Commande qui va ajouter un fichier modifié dans le commit
 
 **git.commit**
->Commande qui va commit les changement ajouter au projet
+>Commande qui va commit les changements ajoutés au projet
 >Le commentaire du commit peut être ajouter a la suite de la commande (ex: git.commit "first commit").
 
 **git.diff**
->Montre ls différences entre 2 commit
+>Montre les différences entre 2 commit
 
 **git.log** 
->Monter un hisotrique des précédents log
+>Monter un historique des précédents log
 
 **git.status**
 >Commande qui remonte les fichiers qui ont été modifié 
 
 **git.branch**
 >Commande qui montre dans quelle branche on se situe actuellement
->Permet de créer une branche aussi en ajoute un nom de branche après (ex : git.branch Dev).
+>Permet aussi de créer une branche en ajoutant le nom après (ex : git branch nomBranche).
 
 **git.push**
->Permet de remonter les modifications vers un depot distant
+>Permet de remonter les modifications vers un dépôt distant
 
 **git.checkout**
->Permet de se deplacer entre branche
+>Permet de se déplacer entre les différentes branches
   
 **git.merge**
->Permet de fusionner deux historique de branche
+>Permet de fusionner deux historiques de branche
 
 ## Autre commande de git :v:
 **git.help**
 
 **git clone**
->Commande qui créer une copie du depot existant
+>Commande qui permet créer une copie du dépôt existant
