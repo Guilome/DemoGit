@@ -40,6 +40,7 @@
 >Permet de fusionner deux historique de branche
 
 ## Autre commande de git :v:
-**git.help** 
+**git.help**
+
 **git.clone**
 >Commande qui créer une copie du depot existant
