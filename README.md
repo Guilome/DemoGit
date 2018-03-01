@@ -1,6 +1,6 @@
 # DemoGit (memo Git commandes)
 
-![Logo GitHub](http://www.freepngimg.com/download/github/1-2-github-free-png-image.png) 
+![Logo GitHub](http://mikelev.in/wp-content/uploads/2012/01/github-jedi-octopus-300x300.jpg) 
 
 ## Commande config de git :ok_hand:
 1. git config --global user.email -> permet de configurer son email
