@@ -42,5 +42,5 @@
 ## Autre commande de git :v:
 **git.help**
 
-**git.clone**
+**git clone**
 >Commande qui créer une copie du depot existant
