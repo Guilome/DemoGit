@@ -1,5 +1,7 @@
 # DemoGit (memo Git commandes)
 
+![Logo GitHub](https://tctechcrunch2011.files.wordpress.com/2010/07/github-logo.png?w=400) 
+
 ## Commande config de git :ok_hand:
 1. git config --global user.email -> permet de configurer son email
 2. git config --global user.name -> permet de configurer son nom
@@ -33,6 +35,9 @@
 
 9 git.checkout
   * Permet de se deplacer entre branche
+  
+10.git.merge
+  * Permet de fusionner deux historique de branche
 
 ## Autre commande de git :v:
 1. git.help 
