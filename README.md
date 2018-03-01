@@ -1,6 +1,6 @@
 # DemoGit (memo Git commandes)
 
-## Commande config de git 
+## Commande config de git :ok_hand:
 1. git config --global user.email -> permet de configurer son email
 2. git config --global user.name -> permet de configurer son nom
 
@@ -23,7 +23,10 @@
   * Permet de créer une branche aussi en ajoute un nom de branche après (ex : git.branch Dev).
 8. git.push
   * Permet de remonter les modifications vers un depot distant
+9 git.checkout
+  * Permet de se deplacer entre branche
 
-## Autre commande de git :octocat:
-1.git.clone
+## Autre commande de git :v:
+1. git.help 
+2. git.clone
  * Commande qui créer une copie du depot existant
